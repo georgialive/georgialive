@@ -1,3 +1,5 @@
+[![MasterHead](https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Georgia</h1>
 <h3 align="center">I'm a software engineer and musician based in Ottawa, Canada. I have great interest in full-stack development, artificial intelligence, human-computer interactions, and everything in between.</h3>
 
