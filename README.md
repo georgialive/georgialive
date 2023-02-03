@@ -5,8 +5,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=georgialive&label=Profile%20views&color=0e75b6&style=flat" alt="georgialive" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=georgialive" alt="georgialive" /></a> </p>
-
 - 🔭 I’m currently working on [my E-Portfolio](http://georgiavrana.com/#)
 
 - 🌱 I’m currently learning **JavaScript, React, Python**
