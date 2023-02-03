@@ -26,11 +26,24 @@
 <a href="https://discord.gg/georgia vrana#9448" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="georgia vrana#9448" height="30" width="40" /></a>
 </p>
 
+#
+
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+
 
 <p><img align="center" width="100%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=georgialive&show_icons=true&locale=en&layout=compact" alt="georgialive" /></p>
 
 <p>&nbsp;<img align="center" width="100%" height="100%" src="https://github-readme-stats.vercel.app/api?username=georgialive&show_icons=true&locale=en" alt="georgialive" /></p>
 
 <p><img align="center" width="100%" height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=georgialive&" alt="georgialive" /></p>
+
+#
+
+<details>
+  <summary><h3>☼ Georgia's Coding Journey ☼</h3></summary>
+Greetings, I am Georgia, a highly motivated software engineer and accomplished musician who has achieved level eight certification from the Royal Conservatory in piano. My residence is in the beautiful city of Ottawa, Canada. My interests are broad, ranging from full-stack development to artificial intelligence and everything in between, including human-computer interactions. I have honed my technical expertise through extensive experience with various technologies, including HTML, CSS, Java, JavaScript, React, and Python.
+
+I am proud to have developed an impressive portfolio of software engineering projects that demonstrate my passion for programming and my commitment to delivering high-quality results. For example, I created a console-based Tick-Tack-Toe game that utilizes 2D arrays to create the gameboard and determine the winner. Additionally, I developed an interactive Human Eye web-application for a science lab, using HTML, CSS, and JavaScript to explain the anatomy and functions of the human eye in an engaging and interactive manner. Another noteworthy project of mine is a Pairwise Cypher console application, which uses a unique key to encode or decode messages for secure communication with friends.
+
+I would be delighted to connect with you on Discord, Github, or via Email and share my Resume, which showcases my education, work experience, and notable achievements in greater detail. I am confident that my passion, skills, and experience make me a valuable asset to any organization, and I am eager to put my abilities to work in a challenging and rewarding role. Thank you for your time and consideration.
