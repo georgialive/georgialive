@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on [my E-Portfolio](http://georgiavrana.com/#)
+- 🔭 I’m currently working on [an E-Portfolio](http://georgiavrana.com/#)
 
 - 🌱 I’m currently learning **JavaScript, React, Python**
 
