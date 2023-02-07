@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on [an E-Portfolio](http://georgiavrana.com/#)
+- 🔭 I’m currently working on [making a Library](https://github.com/georgialive/Library)
 
 - 🌱 I’m currently learning **JavaScript, React, Python**
 
