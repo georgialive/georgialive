@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **JavaScript, React, Python**
 
-- ✨ I’m currently getting my certification in **Agile: Scrum Foundations**
+- ✨ I’m currently getting my certification in [Agile: Scrum Foundations](https://www.simplilearn.com/learn-agile-scrum-foundations-basics-skillup?term=Scr)
 
 - 👨‍💻 All of my projects are available at [http://georgiavrana.com/#](http://georgiavrana.com/#)
 
