@@ -11,6 +11,8 @@
 
 - 🌱 I’m currently learning **JavaScript, React, Python**
 
+- ✨ I’m currently getting my certification in **Agile: Scrum Foundations**
+
 - 👨‍💻 All of my projects are available at [http://georgiavrana.com/#](http://georgiavrana.com/#)
 
 - 💬 Ask me about **HTML, CSS, Java**
