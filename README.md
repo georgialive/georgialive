@@ -36,7 +36,7 @@
 <br/>
 <p align="center">
   <a href="http://torrinleonard.com/">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs?username=georgialive&show_icons=true&locale=en&layout=compact&theme=dark" alt="georgialive">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-4-langs?username=georgialive&show_icons=true&locale=en&layout=compact&theme=dark" alt="georgialive">
     <img width="47.45%" src="https://github-readme-stats.vercel.app/api?username=georgialive&show_icons=true&locale=en&theme=dark" alt="georgialive">		  
   </a>
 </p>
