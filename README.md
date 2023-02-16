@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on [a hypothetical local Barber Shop website](https://html.dynamiclayers.net/dl/barbershop/index.html)
+- 🔭 I’m currently working on [a JavaScript cheatsheet](https://github.com/georgialive/javaScriptNotes)
 
 - 🌱 I’m currently learning **JavaScript, React, Python**
 
