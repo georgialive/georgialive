@@ -1,9 +1,19 @@
+
+<img src="https://i.pinimg.com/originals/1a/5f/de/1a5fde802048ce000afe3af4ec9d7190.gif" width="100%" height="200"/>
+
 <h1 align="center">Hi 👋, I'm Georgia</h1>
+
 <h3 align="center">I'm a software engineer and musician based in Canada. I have great interest in full-stack development, artificial intelligence, human-computer interactions, and everything in between.</h3>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{georgialive}/count.svg"></p>
 
+#
 
+<details>
+  <summary><h3>☼ Georgia's Coding Journey ☼</h3></summary>
+Greetings, I am Georgia, a highly motivated software engineer and accomplished musician who has achieved level eight certification from the Royal Conservatory in piano. My residence is in Ontario, Canada. My interests are broad, ranging from full-stack development to artificial intelligence and everything in between, including human-computer interactions. I have honed my technical expertise through extensive experience with various technologies, including HTML, CSS, Java, JavaScript, React, and Python. I am proud to have developed an impressive portfolio of software engineering projects that demonstrate my passion for programming and my commitment to delivering high-quality results. I would be delighted to connect with you on Discord, Github, or via Email and share my Resume, which showcases my education, work experience, and notable achievements in greater detail. I am confident that my passion, skills, and experience make me a valuable asset to any organization, and I am eager to put my abilities to work in a challenging and rewarding role. Thank you for your time and consideration.
+  
+</details>
 
 - 🔭 I’m currently working on [a JavaScript cheatsheet](https://github.com/georgialive/javaScriptNotes)
 
@@ -42,9 +52,3 @@
 <p align="center" ><img width="90%" height="90%" src="https://github-readme-streak-stats.herokuapp.com?user=georgialive&theme=dark&hide_border=true)](https://git.io/streak-stats" alt="georgialive" /></p>
 
 ![Metrics](https://metrics.lecoq.io/georgialive?template=classic&base.indepth=true&base.hireable=true&repositories.forks=true&isocalendar=1&languages=1&lines=1&stars=1&habits=1&achievements=1&stackoverflow=1&leetcode=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=true&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.ignored=Sass%2C%20PHP%2C%20Shell%2C%20Dockerfile&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&stars=false&stars.limit=4&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&achievements=false&achievements.threshold=X&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&stackoverflow=false&stackoverflow.user=21240543&stackoverflow.sections=answers-top%2C%20questions-recent&stackoverflow.limit=2&stackoverflow.lines=4&stackoverflow.lines.snippet=2&leetcode=false&leetcode.user=georgialive&leetcode.sections=solved&leetcode.limit.skills=5&leetcode.limit.recent=1&config.timezone=America%2FToronto&config.twemoji=true&config.octicon=true&config.display=large)
-
-#
-
-<details>
-  <summary><h3>☼ Georgia's Coding Journey ☼</h3></summary>
-Greetings, I am Georgia, a highly motivated software engineer and accomplished musician who has achieved level eight certification from the Royal Conservatory in piano. My residence is in Ontario, Canada. My interests are broad, ranging from full-stack development to artificial intelligence and everything in between, including human-computer interactions. I have honed my technical expertise through extensive experience with various technologies, including HTML, CSS, Java, JavaScript, React, and Python. I am proud to have developed an impressive portfolio of software engineering projects that demonstrate my passion for programming and my commitment to delivering high-quality results. I would be delighted to connect with you on Discord, Github, or via Email and share my Resume, which showcases my education, work experience, and notable achievements in greater detail. I am confident that my passion, skills, and experience make me a valuable asset to any organization, and I am eager to put my abilities to work in a challenging and rewarding role. Thank you for your time and consideration.
