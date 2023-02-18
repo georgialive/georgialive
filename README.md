@@ -1,5 +1,5 @@
 
-<img src="https://i.pinimg.com/originals/1a/5f/de/1a5fde802048ce000afe3af4ec9d7190.gif" width="100%" height="200"/>
+<img src="https://i.pinimg.com/originals/1a/5f/de/1a5fde802048ce000afe3af4ec9d7190.gif" width="100%" height="250"/>
 
 <h1 align="center">Hi 👋, I'm Georgia</h1>
 
