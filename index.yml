@@ -1,8 +1,0 @@
-name: Full-year calendar
-  uses: georgialiver
-  with:
-    filename: georgialive.isocalendar.fullyear.svg
-    token: ${{ secrets.METRICS_TOKEN }}
-    base: ""
-    plugin_isocalendar: yes
-    plugin_isocalendar_duration: full-year
