@@ -44,8 +44,8 @@ Greetings, I am Georgia, a highly motivated software engineer and accomplished m
 <br/>
 <p align="center">
   <a href="http://torrinleonard.com/">
-    <img width="47.78761062%" src="https://github-readme-stats.vercel.app/api/top-langs?username=georgialive&show_icons=true&locale=en&layout=compact&theme=dark" alt="georgialive">
-    <img width="42.21238938% " src="https://github-readme-stats.vercel.app/api?username=georgialive&show_icons=true&locale=en&theme=dark" alt="georgialive">		  
+    <img width="37.9911509%" src="https://github-readme-stats.vercel.app/api/top-langs?username=georgialive&show_icons=true&locale=en&layout=compact&theme=dark" alt="georgialive">
+    <img width="50.1588496%" src="https://github-readme-stats.vercel.app/api?username=georgialive&show_icons=true&locale=en&theme=dark" alt="georgialive">		  
   </a>
 </p>
 <br>
