@@ -1,54 +1,132 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ddd6fe,50:c4b5fd,100:93c5fd&height=180&section=header&text=Georgia%20Vrana&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Georgia Vrana — purple and blue wave banner" />
 
-<img src="https://i.pinimg.com/originals/1a/5f/de/1a5fde802048ce000afe3af4ec9d7190.gif" width="100%" height="250"/>
+<h3 align="center">
+  Software engineering student · Cryptography enthusiast · Pianist
+</h3>
 
-<h1 align="center">Hi 👋, I'm Georgia</h1>
-
-<h3 align="center">I'm a software engineer and musician based in Canada. I have great interest in full-stack development, artificial intelligence, human-computer interactions, and everything in between.</h3>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{georgialive}/count.svg"></p>
-
-#
-
-<details>
-  <summary><h3>☼ Georgia's Coding Journey ☼</h3></summary>
-Greetings, I am Georgia, a highly motivated software engineer and accomplished musician who has achieved level eight certification from the Royal Conservatory in piano. My residence is in Ontario, Canada. My interests are broad, ranging from full-stack development to artificial intelligence and everything in between, including human-computer interactions. I have honed my technical expertise through extensive experience with various technologies, including HTML, CSS, Java, JavaScript, React, and Python. I am proud to have developed an impressive portfolio of software engineering projects that demonstrate my passion for programming and my commitment to delivering high-quality results. I would be delighted to connect with you on Discord, Github, or via Email and share my Resume, which showcases my education, work experience, and notable achievements in greater detail. I am confident that my passion, skills, and experience make me a valuable asset to any organization, and I am eager to put my abilities to work in a challenging and rewarding role. Thank you for your time and consideration.
-  
-</details>
-
-- 🔭 I’m currently working on [preparing for my final project](https://github.com/georgialive/Final-Project_Preparation)
-
-- 🌱 I’m currently learning **JavaScript, React, Python**
-
-<!-- - ✨ I’m currently getting my certification in [Agile: Scrum Foundations](https://www.simplilearn.com/learn-agile-scrum-foundations-basics-skillup?term=Scr) -->
-
-- 👨‍💻 All of my projects are available at [http://georgiavrana.com/#](http://georgiavrana.com/#)
-
-- 💬 Ask me about **HTML, CSS, Java**
-
-- 📫 How to reach me **georgia.m.vrana@gmail.com**
-
-- ⚡ Fun fact **I am a pianist looking towards to taking my level eight exam from the Royal Conservatory.**
-
-<h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/georgiavrana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="georgia-vrana-55bb43206" height="30" width="40" /></a>
-<a href="https://instagram.com/georgia.vrana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="georgia.vrana" height="30" width="40" /></a>
-<a href="https://discord.gg/2z43R36X" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="georgia vrana#9448" height="30" width="40" /></a>
+  Building things, asking questions, and always finding something new to learn. ☀️
 </p>
 
-#
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
-
-<br/>
 <p align="center">
-  <a href="http://torrinleonard.com/">
-    <img width="37.9911509%" src="https://github-readme-stats.vercel.app/api/top-langs?username=georgialive&show_icons=true&locale=en&layout=compact&theme=dark" alt="georgialive">
-    <img width="50.1588496%" src="https://github-readme-stats.vercel.app/api?username=georgialive&show_icons=true&locale=en&theme=dark" alt="georgialive">		  
+  <a href="https://www.linkedin.com/in/georgiavrana/">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_connect-7c3aed?style=for-the-badge" alt="Connect on LinkedIn" />
+  </a>
+  <a href="mailto:georgia.m.vrana@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say_hello-2563eb?style=for-the-badge" alt="Send me an email" />
+  </a>
+  <a href="https://github.com/georgialive?tab=repositories">
+    <img src="https://img.shields.io/badge/GitHub-Explore_my_work-8b5cf6?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories" />
   </a>
 </p>
-<br>
-<p align="center" ><img width="90%" height="90%" src="https://github-readme-streak-stats.herokuapp.com?user=georgialive&theme=dark&hide_border=true)](https://git.io/streak-stats" alt="georgialive" /></p>
 
-![Metrics](https://metrics.lecoq.io/georgialive?template=classic&base.indepth=true&base.hireable=true&repositories.forks=true&isocalendar=1&languages=1&lines=1&stars=1&habits=1&achievements=1&stackoverflow=1&leetcode=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=true&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.ignored=Sass%2C%20PHP%2C%20Shell%2C%20Dockerfile&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&stars=false&stars.limit=4&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&achievements=false&achievements.threshold=X&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&stackoverflow=false&stackoverflow.user=21240543&stackoverflow.sections=answers-top%2C%20questions-recent&stackoverflow.limit=2&stackoverflow.lines=4&stackoverflow.lines.snippet=2&leetcode=false&leetcode.user=georgialive&leetcode.sections=solved&leetcode.limit.skills=5&leetcode.limit.recent=1&config.timezone=America%2FToronto&config.twemoji=true&config.octicon=true&config.display=large)
+---
+
+### A little about me 🌷
+
+Hi, I'm Georgia! I'm studying **Software Engineering at Carleton
+University** in Ottawa, Canada.
+
+I love figuring out how things work, especially when that means following
+a tricky problem all the way down to the code. My experience so far has
+taken me into **cryptographic software, randomness and entropy,
+cross-platform development, and research**. I'm particularly excited
+about security engineering, vulnerability research, and building tools
+that help us understand and protect software.
+
+I also enjoy full-stack development, artificial intelligence, and
+human-computer interaction. There are so many interesting things to
+build, and I love having opportunities to try something new!
+
+🎹 Outside of engineering, I'm a pianist and musician.  
+💬 I speak **English and French**, with **DELF B1 certification** in French.
+
+---
+
+### Where I've been & what I've built 🔐
+
+#### Quantropi · Cryptographic Analyst
+
+I spent six months working on **QPP-RNG**, a system-jitter-based
+cryptographic random number generator. It was a chance to connect
+research with hands-on development and see how the same software
+behaves across very different environments.
+
+Some of the work I contributed to:
+
+- **C development** for the entropy collection path.
+- **Python analysis** to investigate and evaluate generator output.
+- **Java integration and usage** of the generator.
+- **Cross-platform development and testing** on Windows, macOS,
+  and Raspberry Pi.
+- **Makefiles, test harnesses, and GitHub Actions** to support builds
+  and automated testing.
+- **Randomness and entropy evaluation** using NIST SP 800-22,
+  NIST SP 800-90B, and Dieharder.
+
+#### Government internship · Cryptanalyst
+
+I also completed a government internship as a **cryptanalyst**.
+
+#### Published research 📖
+
+I contributed to research published in **Scientific Reports (2025)**
+through my work on QPP-RNG.
+
+[Read the publication →](https://doi.org/10.1038/s41598-025-13135-8)
+
+---
+
+### My technical toolkit 🛠️
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,python,java,js,html,css,react&perline=7" alt="C, Python, Java, JavaScript, HTML, CSS, and React" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,vscode&perline=6" alt="Git, GitHub, GitHub Actions, Docker, Linux, and Visual Studio Code" />
+</p>
+
+| Area | My experience |
+| :--- | :--- |
+| **Programming** | C, Python, Java, JavaScript |
+| **Security & cryptography** | Random number generation, entropy analysis, cryptographic software testing |
+| **Testing & automation** | Test harnesses, GitHub Actions, Makefiles, statistical testing |
+| **Platforms** | Windows, macOS, Linux, Raspberry Pi |
+| **Web development** | React, HTML, CSS |
+| **Digital systems** | Verilog, Vivado, Logisim Evolution, FPGA coursework |
+
+---
+
+### What I'm exploring next 🌱
+
+I'm continuing to build my foundation in **data structures, algorithms,
+object-oriented design, and digital systems**, while making room for
+the security topics that keep catching my attention:
+
+- 🔎 **Reverse engineering and vulnerability research**
+- 🔐 **Cryptographic implementation and verification**
+- ⚙️ **Systems programming and security tooling**
+- 🧩 **Formal methods**, including learning with EasyCrypt
+
+I like projects that leave me with both something useful and a better
+understanding of how it works.
+
+---
+
+### Let's connect! ☀️
+
+I'm looking for **Summer 2027 internships and co-op opportunities**
+in software engineering, security engineering, cryptography, or
+systems development, with a preference for **remote work within Canada**.
+
+If you're working on something interesting in these areas, I'd love
+to hear about it!
+
+<p align="center">
+  <a href="mailto:georgia.m.vrana@gmail.com">
+    <img src="https://img.shields.io/badge/Say_hello-georgia.m.vrana%40gmail.com-a78bfa?style=for-the-badge" alt="Email Georgia" />
+  </a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ddd6fe,50:c4b5fd,100:93c5fd&height=100&section=footer" width="100%" alt="Purple and blue wave footer" />
